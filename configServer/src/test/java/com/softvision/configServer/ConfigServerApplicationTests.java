@@ -1,4 +1,4 @@
-package com.softvision.interviewApp.configServer;
+package com.softvision.configServer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
